@@ -10,10 +10,12 @@
 
 ---
 
+## adding items
 <img width="477" height="32" alt="image" src="https://github.com/user-attachments/assets/ba487dcb-51b8-4d3c-9279-6e19c7ef06ed" />
 
 ---
 
+## removing items
 <img width="484" height="42" alt="image" src="https://github.com/user-attachments/assets/8aedf342-c7f7-4099-92b4-b8458eb07137" />
 
 
